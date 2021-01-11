@@ -1,0 +1,2 @@
+# montecarlo
+Pemodelan Monte Carlo 
